@@ -89,7 +89,7 @@ def check_password():
 st.markdown("<h1 style='text-align: center;'>Retranscription textuelle de vos fichiers audio</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Par Jérome IAvarone - IAvaronce conseil</p>", unsafe_allow_html=True)
 st.write("")
-image_url = "https://www.iacademy-formation.com/wp-content/uploads/2024/08/iyus-sugiharto-jpkxJAcp6a4-unsplash-modified-1.png"
+image_url = "https://www.iacademy-formation.com/wp-content/uploads/2024/09/bg-pascaleo.jpg"
 st.image(image_url, use_column_width=True)
 
 if check_password():
